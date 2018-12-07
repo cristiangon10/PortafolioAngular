@@ -1,4 +1,6 @@
 export interface ProductoDescripcion {
+    Cliente: string;
+    PaginaWeb: string;
     categoria:  string;
     desc1:      string;
     desc2:      string;
